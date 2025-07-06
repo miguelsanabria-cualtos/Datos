@@ -27,6 +27,6 @@ Este repositorio contiene dos ejercicios desarrollados en notebooks de Python (G
 
 ## 📎 Archivos
 
-- [`Ejercicio_1.ipynb`](./Ejercicio1.ipynb)
-- [`Ejercicio_2.ipynb`](./Ejercicio_2.ipynb)
+- [`Ejercicio_1.ipynb`](.Ejercicio_1.ipynb)
+- [`Ejercicio_2.ipynb`](.Ejercicio_2.ipynb)
 
